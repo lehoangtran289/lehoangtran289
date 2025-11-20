@@ -6,6 +6,8 @@ Currently pursuing my M.S. in CS at GMU, where I’m exploring scalable software
 
 Always happy to connect, discuss about tech and related areas.
 
+My personal portfolio: [https://lehoangtran289.github.io](https://lehoangtran289.github.io)
+
 ✨ Most Used Languages:
 <br><br>
 ![Most used](https://github-readme-stats.vercel.app/api/top-langs/?username=lehoangtran289&layout=compact)
