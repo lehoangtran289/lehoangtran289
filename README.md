@@ -6,7 +6,7 @@ Currently pursuing my M.S. in CS at GMU, where I’m exploring scalable software
 
 Always happy to connect, discuss about tech and related areas.
 
-My personal portfolio: [https://lehoangtran289.github.io](https://lehoangtran289.github.io)
+My personal portfolio: [https://hoangtl.space](https://hoangtl.space)
 
 ✨ Most Used Languages:
 <br><br>
