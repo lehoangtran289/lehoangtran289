@@ -2,12 +2,10 @@
 
 I'm Hoang, a backend-focused Software Engineer with strong experience in building large-scale systems. Specialized in high-concurrency, low-latency cloud-native infrastructures and performance optimization. Delivered products that serves millions of users.
 
-I'm currently pursuing my M.S. in CS at GMU, where I’m gonna explore database technologies, distributed systems, scalable software design and learning things the hard way. 
-
 Always happy to connect, discuss about tech and related areas.
 
-### Connect with me via: 
+### 📫 Connect with me via: 
 
-- 📧 Email: [hoangtl.cs@gmail.com](mailto:hoangtl.cs@gmail.com)
-- 📫 Linkedin: [https://www.linkedin.com/in/hoangtl289/](https://www.linkedin.com/in/hoangtl289/)
-- 🌐 Portfolio: [https:/hoangtl.space](https:/hoangtl.space)
+- Email: [hoangtl.cs@gmail.com](mailto:hoangtl.cs@gmail.com)
+- Linkedin: [https://www.linkedin.com/in/hoangtl289/](https://www.linkedin.com/in/hoangtl289/)
+- Portfolio: [https:/hoangtl.space](https:/hoangtl.space)
