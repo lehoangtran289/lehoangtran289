@@ -8,4 +8,4 @@ Always happy to connect, discuss about tech and related areas.
 
 - Email: [hoangtl.cs@gmail.com](mailto:hoangtl.cs@gmail.com)
 - Linkedin: [https://www.linkedin.com/in/hoangtl289/](https://www.linkedin.com/in/hoangtl289/)
-- Portfolio: [https:/hoangtl.space](https://hoangtl.space)
+- Portfolio: [https://hoangtl.space](https://hoangtl.space)
