@@ -2,7 +2,7 @@
 
 I'm Hoang, a backend-focused Software Engineer with strong experience in building large-scale systems. Specialized in high-concurrency, low-latency cloud-native infrastructures, and performance optimization. Delivered products that serves millions of users.
 
-Always happy to connect, discuss about tech and related areas.
+I like to read tech and sometimes build things.
 
 ### 📫 Connect with me via: 
 
